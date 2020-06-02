@@ -14,4 +14,8 @@ public class Sku {
         return title;
     }
 
+    public Long getPrice(){
+        return  price;
+    }
+
 }
