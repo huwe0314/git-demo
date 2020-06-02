@@ -6,4 +6,9 @@ public class Sku {
     private  String title;
     private  Long price;
 
+
+    public Long getSkuId(){
+        return skuId;
+    }
+
 }
