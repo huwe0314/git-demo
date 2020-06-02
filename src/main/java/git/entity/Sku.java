@@ -7,6 +7,6 @@ public class Sku {
     private  Long price;
 
     public Long getSkuId(){
-        reture skuId;
+        return skuId;
     }
 }
